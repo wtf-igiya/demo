@@ -3,4 +3,4 @@ This is a simple readme file
 
 MORE TEXT ADDED HERE
 
-Someone changed this line before merge....
+This line will causes conflict between very-bad and master
